@@ -1,0 +1,84 @@
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto\FrmProyecto\bin\Debug\FrmProyecto.exe.config
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto\FrmProyecto\bin\Debug\FrmProyecto.exe
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto\FrmProyecto\bin\Debug\FrmProyecto.pdb
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto\FrmProyecto\obj\Debug\FrmProyecto.csprojAssemblyReference.cache
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto\FrmProyecto\obj\Debug\FrmProyecto.Properties.Resources.resources
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto\FrmProyecto\obj\Debug\FrmProyecto.csproj.GenerateResource.cache
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto\FrmProyecto\obj\Debug\FrmProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto\FrmProyecto\obj\Debug\FrmProyecto.exe
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto\FrmProyecto\obj\Debug\FrmProyecto.pdb
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto\FrmProyecto\obj\Debug\FrmProyecto.Frmlogin.resources
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto\FrmProyecto\obj\Debug\FrmProyecto.FrmPrincipal.resources
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto\FrmProyecto\obj\Debug\FrmProyecto.FrmCalculos.resources
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\bin\Debug\FrmProyecto.exe.config
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\bin\Debug\FrmProyecto.exe
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\bin\Debug\FrmProyecto.pdb
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.csprojAssemblyReference.cache
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.FrmCalculos.resources
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.Frmlogin.resources
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.FrmPrincipal.resources
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.Properties.Resources.resources
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.csproj.GenerateResource.cache
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.exe
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.pdb
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.Frmbinario.resources
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.FrmFibonacci.resources
+C:\Users\Jhon\Documents\Materias de respaldo\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.FrmSaleccion.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\bin\Debug\FrmProyecto.exe.config
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\bin\Debug\FrmProyecto.exe
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\bin\Debug\FrmProyecto.pdb
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.csprojAssemblyReference.cache
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.Frmbinario.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.FrmCalculos.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.FrmFibonacci.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.Frmlogin.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.FrmPrincipal.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.FrmSaleccion.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.Properties.Resources.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.csproj.GenerateResource.cache
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.exe
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8\FrmProyecto\obj\Debug\FrmProyecto.pdb
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\bin\Debug\FrmProyecto.exe.config
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\bin\Debug\FrmProyecto.exe
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\bin\Debug\FrmProyecto.pdb
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.csprojAssemblyReference.cache
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.Frmbinario.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.FrmCalculos.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.FrmFibonacci.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.Frmlogin.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.FrmPrincipal.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.Properties.Resources.resources
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.csproj.GenerateResource.cache
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.exe
+C:\Users\Jhon\Documents\Materias de respaldo 2C\Respaldo de programas\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.pdb
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\bin\Debug\FrmProyecto.exe.config
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\bin\Debug\FrmProyecto.exe
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\bin\Debug\FrmProyecto.pdb
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.csprojAssemblyReference.cache
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.Frmbinario.resources
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.FrmCalculos.resources
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.FrmFibonacci.resources
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.Frmlogin.resources
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.FrmPrincipal.resources
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.Properties.Resources.resources
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.csproj.GenerateResource.cache
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.csproj.CoreCompileInputs.cache
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.exe
+C:\Users\JM COMPUTER\Desktop\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.pdb
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\bin\Debug\FrmProyecto.exe.config
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\bin\Debug\FrmProyecto.exe
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\bin\Debug\FrmProyecto.pdb
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.csprojAssemblyReference.cache
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.Frmbinario.resources
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.FrmCalculos.resources
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.FrmFibonacci.resources
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.Frmlogin.resources
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.FrmPrincipal.resources
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.Properties.Resources.resources
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.csproj.GenerateResource.cache
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.csproj.CoreCompileInputs.cache
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.exe
+C:\Users\JM COMPUTER\Desktop\programacion\FrmProyecto 13-8 mejor operaciones\FrmProyecto\obj\Debug\FrmProyecto.pdb
